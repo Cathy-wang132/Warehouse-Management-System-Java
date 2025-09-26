@@ -3,7 +3,7 @@
 
 #### 1、介绍
 
-这是一款基于现代Web技术开发的 仓库管理系统。后端采用 Java 的 Spring Boot 2.7 框架，前端使用 Vue2 框架结合 Element UI 组件库，数据库则使用 MySQL 8 进行数据存储。系统界面简洁直观，操作便捷，可用于编程项目练习~
+这是一款基于现代Web技术开发的 仓库管理系统。后端采用 Java 21 的 Spring Boot 2.7 框架，前端使用 Vue2 框架结合 Element UI 组件库，数据库则使用 MySQL 8 进行数据存储。系统界面简洁直观，操作便捷，可用于编程项目练习~
 
 #### 2、源码
 
@@ -12,11 +12,11 @@
 页面有演示站 可查看具体详情！
 
 开发不易，小偿获取，谢谢理解~
+<img width="1875" height="885" alt="image" src="https://github.com/user-attachments/assets/8f119444-0cea-43fa-aeeb-44362268f0d5" />
+<img width="1893" height="870" alt="image" src="https://github.com/user-attachments/assets/aa496d6f-9899-4c93-8f2f-403f0d0d0e3d" />
+<img width="1874" height="896" alt="image" src="https://github.com/user-attachments/assets/f051f177-555a-4f2c-b912-6629363a6686" />
+<img width="1015" height="240" alt="image" src="https://github.com/user-attachments/assets/bd545b89-959f-403f-bc5b-077767708981" />
 
-<img width="1885" height="911" alt="image" src="https://github.com/user-attachments/assets/39c21867-c75f-4ab2-aa11-edf143235e67" />
-<img width="1880" height="820" alt="image" src="https://github.com/user-attachments/assets/f2d8d89a-80a3-4e9c-b46d-0f396a8b9547" />
-<img width="1880" height="759" alt="image" src="https://github.com/user-attachments/assets/29c91bad-d36e-45b3-bbf7-7c91db59c924" />
-<img width="1015" height="240" alt="image" src="https://github.com/user-attachments/assets/86f9947c-30ed-49e9-9ebe-0f71dbda1b52" />
 
 #### 3、使用技术
 
@@ -52,15 +52,17 @@
 #### 5、操作说明
 
 后端操作：
- 1. 确保安装 Java 开发环境（推荐使用 JDK 8 及以上版本）。
 
- 2. 安装 Maven 3.8 或更高版本。
+确保安装 Java21 开发环境。
 
- 3. 使用 Maven 命令构建并运行 Spring Boot 项目。
+安装 Maven 3.9 或更高版本。
+
+使用 Maven 命令构建并运行 Spring Boot 项目。
 
 前端操作：
- 1. 使用命令 npm install 安装依赖。
 
- 2. 本地开发时，使用 npm run serve 启动前端应用。
+使用命令 npm install 安装依赖。
 
- 3. 前端项目打包后，使用 npm run build 生成静态文件，并可部署到服务器上线。
+本地开发时，使用 npm run serve 启动前端应用。
+
+前端项目打包后，使用 npm run build 生成静态文件，并可部署到服务器上线。
